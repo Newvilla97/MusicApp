@@ -1,0 +1,56 @@
+header{
+  text-align: center;
+  
+}
+.TituloListaCanciones{
+  
+    text-align: center;
+    background: white;
+    color: grey;
+    font-size: 15px;
+   
+
+}
+
+body{
+  background-color:rgb(240, 228, 228);
+}
+
+.Subtitle{
+  text-align: center;
+}
+.Lista{
+  background: #fafdfd;
+  float:left;
+  width: 50%;
+  margin:10px;
+  border-style: solid;
+  border-color: white;
+  font-size: 10px;
+  }
+.Letras{
+  float:left;
+  background:white;
+  width: 40%;
+  
+  border-radius: 10px 10px 10px 10px;
+
+  
+  }
+  .separador{
+    margin-top: 10px;
+  }
+  header {
+    padding: 30px;
+    text-align: center;
+    background: #0c9ff5;
+    color: white;
+    font-size: 30px;
+    margin: 10px;
+    
+  }
+  h4{
+    font-family: monospace;
+  }
+  
+
