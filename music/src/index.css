@@ -1,41 +1,47 @@
 header{
   text-align: center;
   
+  
 }
 .TituloListaCanciones{
   
     text-align: center;
-    background: white;
-    color: grey;
+    background: #3f4346;
+    color: white;
     font-size: 15px;
    
 
 }
 
 body{
-  background-color:aliceblue
+  background-color:orangered
 }
 
 .Subtitle{
   text-align: center;
 }
 .Lista{
-  background: #fafdfd;
+  background: #3f4346;
   float:left;
-  width: 50%;
+  width: 90%;
   margin:10px;
   border-style: solid;
   border-color: white;
   font-size: 10px;
+  box-shadow: 10px 5px 5px black;
+  border-radius: 3px 3px 10px 10px;
+  padding: 10px;
   }
 .Letras{
   float:left;
-  background:white;
+  background: #3f4346;
   width:95%;
   margin-left: 10px;
+  border-style: solid;
   border-radius: 10px 10px 10px 10px;
+  border-color: rgb(245, 205, 26);
 
-  
+  box-shadow: 10px 5px 5px black;
   }
   .separador{
     margin-top: 10px;
@@ -43,17 +49,26 @@ body{
   header {
     padding: 30px;
     text-align: center;
-    background: #0c9ff5;
+    background: #3f4346;
     color: white;
     font-size: 30px;
     margin: 10px;
-    
+    border-radius: 10px 10px 10px 10px;
+    box-shadow: 10px 5px 5px black;
   }
   h4{
     font-family: monospace;
+    text-align: center;
+    color: white;
+    
   }
   .botonVolver{
     margin:15px;
+    
+    
+  }
+  h1{
+    color: rgb(245, 205, 26);
     
   }
 
