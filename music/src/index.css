@@ -13,7 +13,7 @@ header{
 }
 
 body{
-  background-color:rgb(240, 228, 228);
+  background-color:aliceblue
 }
 
 .Subtitle{
@@ -31,8 +31,8 @@ body{
 .Letras{
   float:left;
   background:white;
-  width: 40%;
-  
+  width:95%;
+  margin-left: 10px;
   border-radius: 10px 10px 10px 10px;
 
   
@@ -52,5 +52,8 @@ body{
   h4{
     font-family: monospace;
   }
-  
+  .botonVolver{
+    margin:15px;
+    
+  }
 
