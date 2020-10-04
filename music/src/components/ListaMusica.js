@@ -30,12 +30,16 @@ const Lista = ({setLetraVisible,setCancion}) => {
       
     return ( 
         <Fragment>
-            <div class="Lista">
           <div class="TituloListaCanciones">Lista de Canciones</div>
-
+            <div class="Lista">
+          
+          
           <div className="ListaMusica">
-            <div className="separador"></div>
+           
             <div>
+            
+    
+
               <button
                 type="button"
                 class="btn btn-warning"
